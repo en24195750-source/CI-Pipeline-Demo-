@@ -28,6 +28,6 @@ jobs:
         
       
       - name: Invalid Command
-        run: "Error Fixed"
+        run: eco "Error Fixed"
 
 
